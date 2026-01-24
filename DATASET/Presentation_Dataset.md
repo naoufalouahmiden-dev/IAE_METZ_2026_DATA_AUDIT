@@ -1,4 +1,4 @@
-Ceci est un ficjier dnas le dossier dataset pour présenter les différents jeu de données.
+Ceci est un fichier dans le dossier dataset pour présenter les différents jeu de données.
 
 DARA SOURCES : 
 
